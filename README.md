@@ -17,8 +17,8 @@ Abaixo teremos duas formas execução do projeto, uma utilizando o docker e outr
 
 ## dotnet
  Abra o prompt de comando do windows o bash do linux
- 2. Acesse o diretório onde o projeto foi baixado e descompactado
- 3. Execute os comandos na ordem abaixo
+ 1. Acesse o diretório onde o projeto foi baixado e descompactado
+ 2. Execute os comandos na ordem abaixo
 	 1. Instale o .net 6 caso ele não esteja instalado.
 	 2. Execute o comando abaixo para executar a aplicação. 
 	 3. `dotnet run urls=http://localhost:8080`
