@@ -22,3 +22,4 @@ Abaixo teremos duas formas execução do projeto, uma utilizando o docker e outr
 	 1. Instale o .net 6 caso ele não esteja instalado.
 	 2. Execute o comando abaixo para executar a aplicação. 
 	 3. `dotnet run urls=http://localhost:8080`
+	 4. a documentação das apis estão disponiveis no link abaixo http://localhost:8080/swagger/index.html
